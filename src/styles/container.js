@@ -10,6 +10,7 @@ export const useStyles = makeStyles({
   },
   mainContainer: {
     display: 'flex',
+    justifyContent: 'center',
     width: '60%',
     height: '60%',
     background: 'linear-gradient(45deg, #85f5ff 30%, #5abdbf 90%)',
